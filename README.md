@@ -5,6 +5,8 @@ This project analyzes loan data to understand loan default patterns and identify
 
 ## Business Scenario
 Imagine you work as a Data Analyst for a financial company that provides loans to customers.
+company face financial risk when borrowers fail to repay their loans. Analyzing historical loan data can help identify patterns associated with defaults and support better loan portfolio monitoring.
+
 
 
 The objective of company is to understand:
