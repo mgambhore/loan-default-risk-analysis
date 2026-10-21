@@ -3,8 +3,24 @@
 ## Project Overview
 This project analyzes loan data to understand loan default patterns and identify borrower and loan characteristics associated with default. Python was used for data preparation and exploratory analysis, while Power BI was used to create an interactive dashboard.
 
-## Business Problem
-Lending companies face financial risk when borrowers fail to repay their loans. Analyzing historical loan data can help identify patterns associated with defaults and support better loan portfolio monitoring.
+## Business Scenario
+Imagine you work as a Data Analyst for a financial company that provides loans to customers.
+
+
+The objective of company is to understand:
+
+Who is more likely to default?
+
+What customer *characteristics are associated with default?
+
+Which types of loans have higher default rates?
+
+How does credit history relate to default?
+
+How much loan exposure is associated with risky customers?
+
+Company want some data-driven business recommendations.
+
 
 ## Project Objectives
 - Analyze overall loan performance and default distribution.
